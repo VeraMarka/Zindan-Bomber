@@ -6,7 +6,7 @@
 git clone https://github.com/VeraMarka/Zindan-Bomber.git
 cd Zindan-Bomber
 pip3 install -r requirements.txt
-python3 zindan.py
+python3 zindan-bomb.py
 ```
 # Ekip İnstagram
 [Zindan](https://www.instagram.com/zindan.xv/) Takip Edilenleri Takip Etmeyi Unutma!
