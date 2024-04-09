@@ -3,8 +3,8 @@
 
 # Kurulum:
 ```
-git clone https://github.com/MedusaMarka/ZindanBomber.git
-cd ZindanBomber
+git clone https://github.com/VeraMarka/Zindan-Bomber.git
+cd Zindan-Bomber
 pip3 install -r requirements.txt
 python3 zindan.py
 ```
